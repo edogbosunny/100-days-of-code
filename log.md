@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: March 13, 2017
+### Day 1: March 13, 2017
 
 **Today's Progress**: Started Writing my FCC Tribute Page HTML.
 
