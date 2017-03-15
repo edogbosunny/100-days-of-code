@@ -15,3 +15,11 @@
 **Thoughts:** I am enthusiastic about machine learning, natural language processing and therefore i started out by building a Bot. i have started it and its working but am still training my bot(coding). You can try it out on the page with the link below.
 
 **Link to work:** [My IrshaadTechnologies Facebook Page ](https://web.facebook.com/Irshaad-technology-735028769930278/)
+
+### Day 3: March 15, 2017
+
+**Today's Progress**: Coded my FCC Portfolio Page. 
+
+**Thoughts:** I am built my Free Code Camp Portfolio Page. You can try it out on the page with the link below. Although its giving some issue on Codepen, i will push to github and add the link to it in this log later.
+
+**Link to work:** [My FCC Portfolio Page ](http://codepen.io/jatto_abdul/pen/MpvBvM) #on github its Jatto Portfolio[comming soon]
